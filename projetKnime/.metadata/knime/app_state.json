@@ -1,0 +1,22 @@
+{
+  "version" : "5.3.3.v202411031102",
+  "projects" : [ {
+    "name" : "PROJET_7_EGALITE",
+    "active" : true,
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "relativePath" : "PROJET_7_EGALITE"
+    }
+  } ],
+  "mostRecentlyUsedProjects" : [ {
+    "name" : "PROJET_7_EGALITE",
+    "timeUsed" : "2024-12-27T11:50:44.662791+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "PROJET_7_EGALITE"
+    }
+  } ]
+}

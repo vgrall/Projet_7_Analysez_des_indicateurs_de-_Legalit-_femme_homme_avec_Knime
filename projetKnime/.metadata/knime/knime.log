@@ -1,0 +1,522 @@
+2024-12-27 11:47:44,564 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Could not set zoom level 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      TypeError: t is not a function (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2024-12-27 11:47:44,573 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'name') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 23)
+2024-12-27 11:47:44,609 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Could not set zoom level 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      TypeError: t is not a function (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2024-12-27 11:47:44,609 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'name') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 23)
+2024-12-27 11:47:44,709 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Could not set zoom level 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      TypeError: t is not a function (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2024-12-27 11:47:44,710 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'name') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 23)
+2024-12-27 11:47:44,760 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Could not set zoom level 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      TypeError: t is not a function (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2024-12-27 11:47:44,760 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'name') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 23)
+2024-12-27 11:47:44,864 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Could not set zoom level 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      TypeError: t is not a function (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2024-12-27 11:47:44,864 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'name') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 23)
+2024-12-27 11:47:44,917 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Could not set zoom level 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      TypeError: t is not a function (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2024-12-27 11:47:44,918 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'name') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 23)
+2024-12-27 11:47:45,020 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'name') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 23)
+2024-12-27 11:47:45,072 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'name') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 23)
+2024-12-27 11:47:45,174 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'name') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 23)
+2024-12-27 11:47:45,225 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'name') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 23)
+2024-12-27 11:47:45,326 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'name') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 23)
+2024-12-27 11:47:45,376 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'name') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 23)
+2024-12-27 11:47:45,475 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'name') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 23)
+2024-12-27 11:47:46,476 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Could not set zoom level 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      TypeError: t is not a function (repeated 7 times) (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2024-12-27 11:48:13,003 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Login failed 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      TypeError: Cannot read properties of undefined (reading 'at') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2024-12-27 11:48:34,601 : WARN  : ModalContext :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:48:34,602 : WARN  : ModalContext :  : Node : Excel Reader : 3:5 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:48:34,603 : WARN  : ModalContext :  : Node : Excel Reader : 3:6 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:48:34,661 : WARN  : ModalContext :  : Node : CSV Writer : 3:180 : Execute failed: Output file '/Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv' exists and must not be overwritten due to user settings.
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  : Errors during load: Status: DataLoadError: PROJET_7_EGALITE 3 loaded with error during data load
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :   Status: DataLoadError: PROJET_7_EGALITE 3
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Error: Unable to load settings for node with ID suffix 207: Unable to read settings file /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pie Chart (#207)/settings.xml
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Error: Unable to load settings for node with ID suffix 262: Unable to read settings file /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Excel Writer (#262)/settings.xml
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Excel Reader 3:1
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Excel Reader": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Excel Reader (#1)/port_1/data.xml
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: State has changed from EXECUTED to CONFIGURED
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Excel Reader 3:5
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Excel Reader": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Excel Reader (#5)/port_1/data.xml
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: State has changed from EXECUTED to CONFIGURED
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Excel Reader 3:6
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Excel Reader": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Excel Reader (#6)/port_1/data.xml
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: State has changed from EXECUTED to CONFIGURED
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Missing Value Column Filter 3:165
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Missing Value Column Filter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Missing Value Column Filter (#165)/port_1/data.xml
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Missing Value Column Filter 3:174
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Missing Value Column Filter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Missing Value Column Filter (#174)/port_1/data.xml
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Missing Value Column Filter 3:167
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Missing Value Column Filter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Missing Value Column Filter (#167)/port_1/data.xml
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Missing Value 3:168
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Missing Value": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Missing Value (#168)/port_1/data.xml
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Duplicate Row Filter 3:171
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Duplicate Row Filter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Duplicate Row Filter (#171)/port_1/data.xml
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Missing Value 3:169
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Missing Value": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Missing Value (#169)/port_1/data.xml
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Duplicate Row Filter 3:175
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Duplicate Row Filter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Duplicate Row Filter (#175)/port_1/data.xml
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Duplicate Row Filter 3:170
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Duplicate Row Filter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Duplicate Row Filter (#170)/port_1/data.xml
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Metanode 3:176
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Joiner 3:176:154
+2024-12-27 11:48:34,749 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :         Status: DataLoadError: Unable to load port content for node "Joiner": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Metanode (#176)/Joiner (#154)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :         Status: DataLoadError: State has changed from EXECUTED to IDLE
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Joiner 3:176:155
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :         Status: DataLoadError: Unable to load port content for node "Joiner": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Metanode (#176)/Joiner (#155)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Date&Time Difference 3:156
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Date&Time Difference": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Date_Time Difference (#156)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Filter 3:157
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Filter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Filter (#157)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Math Formula 3:158
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Math Formula": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Math Formula (#158)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Numeric Binner 3:177
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Numeric Binner": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Numeric Binner (#177)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Math Formula 3:178
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Math Formula": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Math Formula (#178)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Rule Engine 3:179
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Rule Engine": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Rule Engine (#179)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pivot 3:183
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Pivot": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pivot (#183)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: GroupBy 3:181
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "GroupBy": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/GroupBy (#181)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: GroupBy 3:189
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "GroupBy": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/GroupBy (#189)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pivot 3:242
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Pivot": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pivot (#242)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Numeric Binner 3:247
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Numeric Binner": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Numeric Binner (#247)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Numeric Binner 3:251
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Numeric Binner": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Numeric Binner (#251)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pivot 3:224
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Pivot": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pivot (#224)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Sorter 3:209
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Sorter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Sorter (#209)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: GroupBy 3:213
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "GroupBy": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/GroupBy (#213)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pivot 3:217
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Pivot": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pivot (#217)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pivot 3:221
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Pivot": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pivot (#221)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: GroupBy 3:192
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "GroupBy": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/GroupBy (#192)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: GroupBy 3:196
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "GroupBy": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/GroupBy (#196)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: GroupBy 3:200
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "GroupBy": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/GroupBy (#200)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Sorter 3:204
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Sorter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Sorter (#204)/port_1/data.xml
+2024-12-27 11:48:34,750 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Math Formula (Multi Column) 3:184
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Math Formula (Multi Column)": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Math Formula _Multi Column_ (#184)/port_1/data.xml
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pie Chart 3:182
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Pie Chart": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pie Chart (#182)/internalTables/object_0
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pivot 3:187
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Pivot": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pivot (#187)/port_1/data.xml
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Filter 3:246
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Filter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Filter (#246)/port_1/data.xml
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pivot 3:248
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Pivot": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pivot (#248)/port_1/data.xml
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: GroupBy 3:257
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "GroupBy": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/GroupBy (#257)/port_1/data.xml
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: GroupBy 3:253
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "GroupBy": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/GroupBy (#253)/port_1/data.xml
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Renamer 3:232
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Renamer": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Renamer (#232)/port_1/data.xml
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Filter 3:236
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Filter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Filter (#236)/port_1/data.xml
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pivot 3:214
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Pivot": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pivot (#214)/port_1/data.xml
+2024-12-27 11:48:34,751 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Math Formula (Multi Column) 3:218
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Math Formula (Multi Column)": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Math Formula _Multi Column_ (#218)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Renamer 3:222
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Renamer": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Renamer (#222)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pivot 3:193
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Pivot": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pivot (#193)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pivot 3:197
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Pivot": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pivot (#197)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pivot 3:201
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Pivot": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pivot (#201)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Filter 3:234
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Filter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Filter (#234)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Renamer 3:185
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Renamer": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Renamer (#185)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Filter 3:240
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Filter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Filter (#240)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Renamer 3:244
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Renamer": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Renamer (#244)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Renamer 3:250
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Renamer": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Renamer (#250)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pivot 3:258
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Pivot": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pivot (#258)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pivot 3:254
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Pivot": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pivot (#254)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Box Plot 3:233
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Box Plot": Can't read spec file /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Box Plot (#233)/port_1/spec/spec.zip
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Box Plot": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Box Plot (#233)/internalTables/object_0
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Top k Row Filter 3:237
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Top k Row Filter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Top k Row Filter (#237)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Filter 3:239
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Filter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Filter (#239)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Renamer 3:219
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Renamer": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Renamer (#219)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Bar Chart 3:223
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Bar Chart": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#223)/internalTables/object_0
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Renamer 3:194
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Renamer": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Renamer (#194)/port_1/data.xml
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Renamer 3:198
+2024-12-27 11:48:34,752 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Renamer": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Renamer (#198)/port_1/data.xml
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Renamer 3:202
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Renamer": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Renamer (#202)/port_1/data.xml
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Top k Row Filter 3:235
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Top k Row Filter": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Top k Row Filter (#235)/port_1/data.xml
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Bar Chart 3:186
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Bar Chart": Can't read spec file /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#186)/port_1/spec/spec.zip
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Bar Chart": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#186)/internalTables/object_0
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Renamer 3:188
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Renamer": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Renamer (#188)/port_1/data.xml
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Bar Chart 3:245
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Bar Chart": Can't read spec file /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#245)/port_1/spec/spec.zip
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Bar Chart": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#245)/internalTables/object_0
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Bar Chart 3:249
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Bar Chart": Can't read spec file /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#249)/port_1/spec/spec.zip
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Bar Chart": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#249)/internalTables/object_0
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Missing Value 3:259
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Missing Value": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Missing Value (#259)/port_1/data.xml
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Missing Value 3:256
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Missing Value": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Missing Value (#256)/port_1/data.xml
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Pie Chart 3:212
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Pie Chart": Can't read spec file /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pie Chart (#212)/port_1/spec/spec.zip
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Pie Chart": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Pie Chart (#212)/internalTables/object_0
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Renamer 3:215
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Renamer": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Renamer (#215)/port_1/data.xml
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Bar Chart 3:220
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Bar Chart": Can't read spec file /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#220)/port_1/spec/spec.zip
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Bar Chart": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#220)/internalTables/object_0
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Sunburst Chart 3:195
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Sunburst Chart": Can't read spec file /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Sunburst Chart (#195)/port_1/spec/spec.zip
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Sunburst Chart": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Sunburst Chart (#195)/internalTables/object_0
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Bar Chart 3:199
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Bar Chart": Can't read spec file /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#199)/port_1/spec/spec.zip
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Bar Chart": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#199)/internalTables/object_0
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Bar Chart 3:203
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Bar Chart": Can't read spec file /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#203)/port_1/spec/spec.zip
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Bar Chart": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#203)/internalTables/object_0
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Bar Chart 3:241
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Bar Chart": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#241)/internalTables/object_0
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Column Renamer 3:261
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load port content for node "Column Renamer": No such data file: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Column Renamer (#261)/port_1/data.xml
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Heatmap 3:255
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Heatmap": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Heatmap (#255)/internalTables/object_0
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Bar Chart 3:238
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Bar Chart": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#238)/internalTables/object_0
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: Bar Chart 3:260
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: DataLoadError: Unable to load internally held tables for node "Bar Chart": Cannot read directory /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/projetKnime/PROJET_7_EGALITE/Bar Chart (#260)/internalTables/object_0
+2024-12-27 11:48:34,753 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: DataLoadError: State has changed from CONFIGURED to IDLE
+2024-12-27 11:48:52,373 : ERROR : KNIME-Worker-1-CSV Writer 3:180 :  : Node : CSV Writer : 3:180 : Execute failed: Output file '/Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv' exists and must not be overwritten due to user settings.
+java.io.IOException: Output file '/Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv' exists and must not be overwritten due to user settings.
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.createOutputStream(CSVWriter2NodeModel.java:217)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.writeToFile(CSVWriter2NodeModel.java:167)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.execute(CSVWriter2NodeModel.java:147)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.execute(CSVWriter2NodeModel.java:1)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:592)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1286)
+	at org.knime.core.node.Node.execute(Node.java:1049)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:605)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:198)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:117)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:367)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:221)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+Caused by: java.nio.file.FileAlreadyExistsException: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv
+	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(Unknown Source)
+	at org.knime.filehandling.core.fs.local.fs.LocalFileSystemProvider.newByteChannel(LocalFileSystemProvider.java:148)
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(Unknown Source)
+	at java.base/java.nio.file.Files.newOutputStream(Unknown Source)
+	at org.knime.filehandling.core.connections.FSFiles.newOutputStream(FSFiles.java:139)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.createOutputStream(CSVWriter2NodeModel.java:214)
+	... 16 more
+2024-12-27 11:48:53,139 : ERROR : KNIME-Worker-5-Bar Chart 3:220 :  : InitialDataService : Bar Chart : 3:220 : {"internalError":{"typeName":"java.lang.NullPointerException","message":"View settings were accessed before loaded","stackTrace":["java.base/java.util.Objects.requireNonNull(Unknown Source)","org.knime.base.views.node.BaseViewsNodeView.getViewSettings(BaseViewsNodeView.java:120)","org.knime.base.views.node.BaseViewsNodeView.lambda$2(BaseViewsNodeView.java:115)","org.knime.core.webui.data.InitialDataService.getInitialData(InitialDataService.java:109)","org.knime.core.webui.node.DataServiceManager.callInitialDataService(DataServiceManager.java:143)","org.knime.gateway.api.entity.UIExtensionEnt.<init>(UIExtensionEnt.java:120)","org.knime.gateway.api.entity.NodeViewEnt.<init>(NodeViewEnt.java:168)","org.knime.gateway.api.entity.NodeViewEnt.create(NodeViewEnt.java:104)","org.knime.gateway.api.entity.NodeViewEnt.create(NodeViewEnt.java:94)","org.knime.js.cef.pagebuilder.PageBuilderUtil.initializePageBuilderImageGeneration(PageBuilderUtil.java:153)","org.knime.js.cef.headless.CEFHeadlessUtil.generateContent(CEFHeadlessUtil.java:210)","org.knime.js.cef.headless.CEFHeadlessUtil.generatePng(CEFHeadlessUtil.java:115)","org.knime.base.views.node.BaseViewsNodeModel.execute(BaseViewsNodeModel.java:248)","org.knime.core.node.NodeModel.executeModel(NodeModel.java:592)","org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1286)","org.knime.core.node.Node.execute(Node.java:1049)","org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:605)","org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)","org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:198)","org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:117)","org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:367)","org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:221)","java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)","java.base/java.util.concurrent.FutureTask.run(Unknown Source)","org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)","org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)"]}}
+2024-12-27 11:49:12,117 : ERROR : main :  : PreShutdown :  :  : Pre-shutdown in 'org.knime.ui.java.OnPreShutdown from plug-in 'org.knime.ui.java' has thrown an uncaught exception: Node cannot be removed (node has state EXECUTING)
+java.lang.IllegalStateException: Node cannot be removed (node has state EXECUTING)
+	at org.knime.core.node.util.CheckUtils.checkState(CheckUtils.java:266)
+	at org.knime.core.node.util.CheckUtils.checkState(CheckUtils.java:165)
+	at org.knime.core.node.workflow.WorkflowManager.removeNode(WorkflowManager.java:1168)
+	at org.knime.core.node.workflow.WorkflowManager.removeProject(WorkflowManager.java:823)
+	at org.knime.gateway.api.util.CoreUtil.cancelAndCloseLoadedWorkflow(CoreUtil.java:343)
+	at org.knime.ui.java.api.CloseProject.lambda$0(CloseProject.java:138)
+	at org.knime.gateway.impl.project.ProjectManager.removeProject(ProjectManager.java:227)
+	at org.knime.gateway.impl.project.ProjectManager.removeProject(ProjectManager.java:197)
+	at org.knime.ui.java.api.CloseProject.closeProject(CloseProject.java:136)
+	at org.knime.ui.java.api.CloseProject.closeProjects(CloseProject.java:128)
+	at org.knime.ui.java.api.SaveAndCloseProjects.saveAndCloseProjectsInteractively(SaveAndCloseProjects.java:163)
+	at org.knime.ui.java.browser.lifecycle.Init$1.lambda$0(Init.java:160)
+	at org.knime.ui.java.browser.lifecycle.SaveState.run(SaveState.java:81)
+	at org.knime.ui.java.browser.lifecycle.LifeCycle.lambda$5(LifeCycle.java:198)
+	at org.knime.ui.java.browser.lifecycle.LifeCycle.doStateTransition(LifeCycle.java:244)
+	at org.knime.ui.java.browser.lifecycle.LifeCycle.saveState(LifeCycle.java:198)
+	at org.knime.ui.java.OnPreShutdown.onPreShutdown(OnPreShutdown.java:67)
+	at org.knime.product.rcp.shutdown.PreShutdown.preShutdown(PreShutdown.java:96)
+	at org.knime.product.rcp.KNIMEApplicationWorkbenchAdvisor.preShutdown(KNIMEApplicationWorkbenchAdvisor.java:142)
+	at org.eclipse.ui.internal.Workbench.busyClose(Workbench.java:1056)
+	at org.eclipse.ui.internal.Workbench.lambda$4(Workbench.java:1409)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1409)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1385)
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(WorkbenchWindow.java:1714)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$5(WorkbenchWindow.java:1741)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1741)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1750)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$2(WorkbenchWindow.java:505)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.lambda$4(WBWRenderer.java:572)
+	at org.eclipse.swt.events.ShellListener$2.shellClosed(ShellListener.java:102)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:102)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4643)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Shell.closeWidget(Shell.java:623)
+	at org.eclipse.swt.widgets.Shell.windowShouldClose(Shell.java:2540)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6266)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:236)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2264)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2509)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6384)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5688)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5828)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:117)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3983)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:152)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:211)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+2024-12-27 11:49:12,698 : WARN  : KNIME-Worker-5-Bar Chart 3:220 :  : Node : Bar Chart : 3:220 : Execution canceled
+2024-12-27 11:50:44,241 : WARN  : ModalContext :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:50:44,244 : WARN  : ModalContext :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:50:44,244 : WARN  : ModalContext :  : Node : Excel Reader : 3:5 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:50:44,244 : WARN  : ModalContext :  : Node : Excel Reader : 3:5 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:50:44,245 : WARN  : ModalContext :  : Node : Excel Reader : 3:6 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:50:44,245 : WARN  : ModalContext :  : Node : Excel Reader : 3:6 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:51:07,152 : ERROR : KNIME-Worker-0-CSV Writer 3:180 :  : Node : CSV Writer : 3:180 : Execute failed: Output file '/Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv' exists and must not be overwritten due to user settings.
+java.io.IOException: Output file '/Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv' exists and must not be overwritten due to user settings.
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.createOutputStream(CSVWriter2NodeModel.java:217)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.writeToFile(CSVWriter2NodeModel.java:167)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.execute(CSVWriter2NodeModel.java:147)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.execute(CSVWriter2NodeModel.java:1)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:592)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1286)
+	at org.knime.core.node.Node.execute(Node.java:1049)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:605)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:198)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:117)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:367)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:221)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+Caused by: java.nio.file.FileAlreadyExistsException: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv
+	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(Unknown Source)
+	at org.knime.filehandling.core.fs.local.fs.LocalFileSystemProvider.newByteChannel(LocalFileSystemProvider.java:148)
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(Unknown Source)
+	at java.base/java.nio.file.Files.newOutputStream(Unknown Source)
+	at org.knime.filehandling.core.connections.FSFiles.newOutputStream(FSFiles.java:139)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.createOutputStream(CSVWriter2NodeModel.java:214)
+	... 16 more
+2024-12-27 11:51:57,064 : ERROR : main :  : SaveProjectCopy :  :  : No destion was picked
+2024-12-27 11:51:57,065 : ERROR : main :  : SaveProjectCopy :  :  : No valid destination could be picked
+2024-12-27 11:53:31,816 : WARN  : comm-pool-thread-4 :  : JsonRpcErrorResolver :  :  : An unexpected json rpc error occurred
+java.lang.IllegalStateException: A default service couldn't be initialized: org.knime.gateway.impl.webui.service.DefaultEventService
+	at org.knime.gateway.impl.webui.service.ServiceInstances$1.initialize(ServiceInstances.java:129)
+	at org.knime.gateway.impl.webui.service.ServiceInstances$1.initialize(ServiceInstances.java:1)
+	at org.apache.commons.lang3.concurrent.LazyInitializer.get(LazyInitializer.java:143)
+	at org.knime.gateway.impl.webui.service.ServiceInstances.getDefaultServiceInstance(ServiceInstances.java:134)
+	at org.knime.gateway.impl.webui.service.ServiceInstances.lambda$0(ServiceInstances.java:114)
+	at org.knime.gateway.impl.webui.jsonrpc.service.JsonRpcEventServiceWrapper.removeEventListener(JsonRpcEventServiceWrapper.java:93)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:478)
+	at com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:349)
+	at com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:274)
+	at com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:242)
+	at org.knime.gateway.impl.jsonrpc.JsonRpcRequestHandler.handle(JsonRpcRequestHandler.java:104)
+	at org.knime.ui.java.browser.lifecycle.Init.lambda$11(Init.java:296)
+	at com.equo.comm.common.MessageHandler.processReceivedEventMessage(MessageHandler.java:131)
+	at com.equo.comm.ee.provider.service.ChromiumService.receiveMessage(ChromiumService.java:98)
+	at com.equo.comm.ee.provider.CommunicationManagerChromiumImpl.receiveMessage(CommunicationManagerChromiumImpl.java:48)
+	at com.equo.chromium.swt.internal.spi.CommRouterHandler.handleRequest(CommRouterHandler.java:33)
+	at com.equo.chromium.swt.internal.spi.CommRouterHandler.lambda$1(CommRouterHandler.java:51)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.knime.gateway.impl.webui.service.ServiceInstances$1.initialize(ServiceInstances.java:126)
+	... 23 more
+Caused by: java.lang.IllegalStateException: No instance for class org.knime.gateway.impl.webui.service.events.EventConsumer given but required as a service dependency
+	at org.knime.gateway.impl.webui.service.ServiceDependencies.getServiceDependency(ServiceDependencies.java:106)
+	at org.knime.gateway.impl.webui.service.DefaultEventService.<init>(DefaultEventService.java:91)
+	... 29 more
+2024-12-27 11:53:31,883 : ERROR : KNIME Sync Exec Dispatcher-1 :  : SyncExecQueueDispatcher :  :  : Uncaught exception while queuing events into main thread
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4922)
+	at org.eclipse.swt.SWT.error(SWT.java:4837)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.widgets.Display.error(Display.java:1209)
+	at org.eclipse.swt.widgets.Display.createDisplay(Display.java:960)
+	at org.eclipse.swt.widgets.Display.create(Display.java:944)
+	at org.eclipse.swt.graphics.Device.<init>(Device.java:132)
+	at org.eclipse.swt.widgets.Display.<init>(Display.java:798)
+	at org.eclipse.swt.widgets.Display.<init>(Display.java:789)
+	at org.eclipse.swt.widgets.Display.getDefault(Display.java:1543)
+	at org.knime.workbench.ui.SyncExecQueueDispatcher$2.run(SyncExecQueueDispatcher.java:120)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+2024-12-27 11:53:40,553 : WARN  : ModalContext :  : Node : CSV Writer : 3:180 : Execute failed: Output file '/Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv' exists and must not be overwritten due to user settings.
+2024-12-27 11:54:01,584 : WARN  : main :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:54:01,585 : WARN  : main :  : Node : Excel Reader : 3:5 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:54:01,585 : WARN  : main :  : Node : Excel Reader : 3:6 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:54:01,602 : WARN  : main :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:54:01,603 : WARN  : main :  : Node : Excel Reader : 3:5 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:54:01,603 : WARN  : main :  : Node : Excel Reader : 3:6 : The node configuration changed and the table spec will be recalculated during execution.
+2024-12-27 11:54:27,374 : ERROR : KNIME-Worker-3-CSV Writer 3:180 :  : Node : CSV Writer : 3:180 : Execute failed: Output file '/Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv' exists and must not be overwritten due to user settings.
+java.io.IOException: Output file '/Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv' exists and must not be overwritten due to user settings.
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.createOutputStream(CSVWriter2NodeModel.java:217)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.writeToFile(CSVWriter2NodeModel.java:167)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.execute(CSVWriter2NodeModel.java:147)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.execute(CSVWriter2NodeModel.java:1)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:592)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1286)
+	at org.knime.core.node.Node.execute(Node.java:1049)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:605)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:198)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:117)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:367)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:221)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+Caused by: java.nio.file.FileAlreadyExistsException: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv
+	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(Unknown Source)
+	at org.knime.filehandling.core.fs.local.fs.LocalFileSystemProvider.newByteChannel(LocalFileSystemProvider.java:148)
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(Unknown Source)
+	at java.base/java.nio.file.Files.newOutputStream(Unknown Source)
+	at org.knime.filehandling.core.connections.FSFiles.newOutputStream(FSFiles.java:139)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.createOutputStream(CSVWriter2NodeModel.java:214)
+	... 16 more
+2024-12-27 11:55:05,473 : ERROR : KNIME-Worker-2-CSV Writer 3:180 :  : Node : CSV Writer : 3:180 : Execute failed: Output file '/Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv' exists and must not be overwritten due to user settings.
+java.io.IOException: Output file '/Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv' exists and must not be overwritten due to user settings.
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.createOutputStream(CSVWriter2NodeModel.java:217)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.writeToFile(CSVWriter2NodeModel.java:167)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.execute(CSVWriter2NodeModel.java:147)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.execute(CSVWriter2NodeModel.java:1)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:592)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1286)
+	at org.knime.core.node.Node.execute(Node.java:1049)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:605)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:198)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:117)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:367)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:221)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+Caused by: java.nio.file.FileAlreadyExistsException: /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv
+	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(Unknown Source)
+	at org.knime.filehandling.core.fs.local.fs.LocalFileSystemProvider.newByteChannel(LocalFileSystemProvider.java:148)
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(Unknown Source)
+	at java.base/java.nio.file.Files.newOutputStream(Unknown Source)
+	at org.knime.filehandling.core.connections.FSFiles.newOutputStream(FSFiles.java:139)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.createOutputStream(CSVWriter2NodeModel.java:214)
+	... 16 more
