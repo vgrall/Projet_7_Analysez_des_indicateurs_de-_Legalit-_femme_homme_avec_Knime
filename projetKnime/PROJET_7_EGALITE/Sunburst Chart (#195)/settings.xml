@@ -72,10 +72,10 @@
         <entry key="text" type="xstring" value="Répartition par temps de travail"/>
         <entry key="contentType" type="xstring" value="text/plain"/>
         <entry key="bgcolor" type="xint" value="16777215"/>
-        <entry key="x-coordinate" type="xint" value="-2610"/>
-        <entry key="y-coordinate" type="xint" value="1046"/>
-        <entry key="width" type="xint" value="153"/>
-        <entry key="height" type="xint" value="13"/>
+        <entry key="x-coordinate" type="xint" value="0"/>
+        <entry key="y-coordinate" type="xint" value="0"/>
+        <entry key="width" type="xint" value="0"/>
+        <entry key="height" type="xint" value="0"/>
         <entry key="alignment" type="xstring" value="CENTER"/>
         <entry key="borderSize" type="xint" value="0"/>
         <entry key="borderColor" type="xint" value="0"/>
@@ -84,7 +84,7 @@
         <config key="styles"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="IDLE"/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="factory" type="xstring" value="org.knime.base.views.node.sunburstchart.SunburstChartNodeFactory"/>
     <entry key="node-name" type="xstring" value="Sunburst Chart"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Views"/>
@@ -105,16 +105,31 @@
         </config>
     </config>
     <entry key="name" type="xstring" value="Sunburst Chart"/>
-    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.image.ImagePortObjectSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.port.image.ImagePortObject"/>
+            <entry key="port_object_summary" type="xstring" value="PNG Image 800 x 600 with 25 KB"/>
+            <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+            <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
+        </config>
+    </config>
+    <config key="internalObjects">
+        <entry key="location" type="xstring" value="internalTables"/>
+        <config key="content">
+            <config key="object_0">
+                <entry key="index" type="xint" value="0"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_0"/>
+            </config>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="adf342d5-543e-4032-82d1-24010756acf2"/>
     </config>
 </config>
