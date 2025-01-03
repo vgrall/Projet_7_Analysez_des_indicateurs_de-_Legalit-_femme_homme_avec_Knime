@@ -1,2 +1,3 @@
 /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finale.csv
+/Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_finalebis.csv
 /Users/virginie/7_OPENCLASSROOM_PROJET_KNIME/Table_final.csv
